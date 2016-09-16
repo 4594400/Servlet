@@ -45,7 +45,7 @@
                     <a href="/update?id=${task.id}">Edit</a>
                 </td>
                 <td style="align-items: center; width: 30px">
-                    <a href="/update?id=${task.id}">Delete</a>
+                    <a href="/delete?id=${task.id}">Delete</a>
                 </td>
             </tr>
         </c:forEach>
