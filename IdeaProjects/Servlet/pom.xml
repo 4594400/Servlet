@@ -41,7 +41,7 @@
 
 
   <build>
-    <finalName>module_8</finalName>
+    <finalName>servlet</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
